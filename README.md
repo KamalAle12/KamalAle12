@@ -3,9 +3,12 @@
 I’m a **Software Engineer** passionate about building innovative software solutions and exploring the latest technologies.
 
 ## 🌟 About Me
+- 💻 I've built **websites**, leveraging my front-end and back-end development skills.
 - 🎮 I’ve created a **2D game using Unity**, showcasing my passion for game development.
 - 🌐 I’ve developed an **AR Filter for Meta**, merging creativity with cutting-edge technology.
-- 💻 I’ve also built several **websites**, leveraging my front-end and back-end development skills.
+
+
+---
 
 ## 🛠️ Skills
 
@@ -28,15 +31,51 @@ I’m a **Software Engineer** passionate about building innovative software solu
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio-link.com)
+---
 
-## 📈 GitHub Stats
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kamal-ale-magar-615b2622a/)
+- [Portfolio Website](https://alekamal.com.np/)
+
+---
+
+## 🎨 Projects Showcase
+
+Here are some of the key projects I’ve worked on:
+
+### 1. **2D Game in Unity**
+   - 🕹️ A 2D Game developed using **Unity**.
+   - 🚀 Explore gameplay mechanics and interactive features.
+   - 🔗 [View Project on itch](https://kamal-ale-magar.itch.io/)
+
+
+
+---
+
+### 2. **AR Filter for Meta**
+   - 🌟 Designed and implemented an Augmented Reality filter for Meta.
+   - 📸 Blending creativity with tech innovations.
+   - 🔗 [View AR Project](https://linkmix.co/24126541)
+
+
+
+---
+
+### 3. **Web Development Projects**
+   - 💻 Designed and developed responsive websites using **HTML, CSS, JS, React, Tailwind CSS, and Spring Boot**.
+   - 🔗 [Website Portfolio Link](https://alekamal.com.np/)
+
+
+---
+
+## 📊 GitHub Stats
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalAle12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAle12&layout=compact&theme=radical)
 
 ---
 
 ### ✨ Fun Fact
-- I enjoy merging creativity with technology, whether it's designing interactive games, AR experiences, or crafting modern websites.
+I enjoy merging creativity with technology, whether it's designing interactive games, AR experiences, or crafting modern websites.
+
+---
+

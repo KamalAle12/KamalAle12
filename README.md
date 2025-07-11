@@ -35,7 +35,7 @@ I’m a **Software Engineer** passionate about building innovative software solu
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kamal-ale-magar-615b2622a/)
-- [Portfolio Website](https://kamalale12.github.io/portfolio/)
+- [Portfolio Website](http://alekamal.com.np/)
 
 ---
 
